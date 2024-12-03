@@ -1,0 +1,5 @@
+teste
+teste
+teste
+TipoAssento [idTipoAssento=1, descricao=Assento top, status=Inclinavel]
+idTipoAssento= 1, descricao= Assento top, status= Inclinavel
